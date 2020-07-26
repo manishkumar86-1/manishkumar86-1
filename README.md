@@ -86,3 +86,24 @@ Test Suite Profile:
 	    me = ReadMe(2020)
 </h4>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manishkumar86-1&show_icons=true" alt="manishkumar86-1" /> </p>
+ ```python
+ class WhoAmI:
+ 	user = 'Haany Ali'
+	current_edu = "St. Mary's Group of Institutions"
+	hobbies = [
+				'Drawing',
+				'Watching Anime',
+				'Reading Sci-Fi Novels'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		retrun Hyderabad_India()
+	
+	def Ambitions():
+		LearnJapanese()
+		CreateSkyNet()
+		FinishMyNovel()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```

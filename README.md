@@ -15,26 +15,43 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```python
- class WhoAmI:
- 	user = 'Haany Ali'
-	current_edu = "St. Mary's Group of Institutions"
-	hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		retrun Hyderabad_India()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
+Suite Profile:
+    Class __Loading...__(self, username="manish", year=2020):
+        self.name = 'Manish Kumar'
+        self.details = {
+            'Language': ['C++', 'Java-Core', 'Shell', 'OSPL-Test'],
+            'Database': ['MySql', 'RDS'],
+			'Virtualization': ['VMWare', 'Virtual Box', 'Docker', 'AWS'],
+            'architecture': ['Bachelor of Engineering', 'Electronics & Communication'],
+            'hobby': ['Sketching', 'Chess', 'Cricket', 'Travel']
+        }
+        self.employment = {
+            'Project Lead-QC': ['R Systems International Ltd', 'Noida'],
+            'Team Lead-Testing': ['Indian Navy', 'New Delhi']
+            'Developer': ['Bharat Electronics Ltd','Ministry of Defense', 'Ghaziabad'],
+        }
+
+    Test doing(self, now=2020):
+        today = self.year
+
+        if now < today:
+            experience = self.employment['Team Lead-Testing']
+			return """
+
+        elif now = today:
+            dream = self.employment['Project Lead-QC']
+            return """
+
+        elif now > today:
+            goal = self.expectation['Smile']
+            return """
+        else:
+            return """
+            ### Hi there 👋
+            """
+        
+me = ReadMe(2020)
+```
 
 <!--[Manish](https://github.com/manishkumar86-1)-->
 [![Manish](https://res.cloudinary.com/manishkumar86/image/upload/v1595763215/20180513084249_zffq9o.gif)](https://github.com/manishkumar86-1)

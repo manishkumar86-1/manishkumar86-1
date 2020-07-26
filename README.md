@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Manish](https://github.com/manishkumar86-1)
-[![](https://res.cloudinary.com/manishkumar86/image/upload/v1595763215/20180513084249_zffq9o.gif)]
+<!--[Manish](https://github.com/manishkumar86-1)-->
+(https://res.cloudinary.com/manishkumar86/image/upload/v1595763215/20180513084249_zffq9o.gif)
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">A passionate Testing Expert from India!</h3>
 

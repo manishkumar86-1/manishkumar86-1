@@ -32,8 +32,7 @@
 
 - 💬 Ask me about **Middleware Testing, UAT, OSPL-DDS, RTI-DDS, Linux Pruning, Networking**
 
-- :e-mail: [**drop an e-mail**](mailto:manish.kumar86@gmail.com) 
-- :e-mail: [**manish.kumar86@gmail.com**]
+- :e-mail: [**e-mail**](**manish.kumar86@gmail.com**) 
 
 - ⚡ Fun fact **Gazar ka halwa is best thing happened to this world !!!**
 

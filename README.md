@@ -30,42 +30,9 @@ Here are some ideas to get you started:
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manishkumar86-1&show_icons=true" alt="manishkumar86-1" /> </p>
 ```javascript
-Suite Profile:
-    Class __Loading...__(self, username="manish", year=2020):
-        self.name = 'Manish Kumar'
-        self.details = {
-            'Language': ['C++', 'Java-Core', 'Shell', 'OSPL-Test'],
-            'Database': ['MySql', 'RDS'],
-			'Virtualization': ['VMWare', 'Virtual Box', 'Docker', 'AWS'],
-            'architecture': ['Bachelor of Engineering', 'Electronics & Communication'],
-            'hobby': ['Sketching', 'Chess', 'Cricket', 'Travel']
-        }
-        self.employment = {
-            'Project Lead-QC': ['R Systems International Ltd', 'Noida'],
-            'Team Lead-Testing': ['Indian Navy', 'New Delhi']
-            'Developer': ['Bharat Electronics Ltd','Ministry of Defense', 'Ghaziabad'],
-        }
-
-    Test doing(self, now=2020):
-        today = self.year
-
-        if now < today:
-            experience = self.employment['Team Lead-Testing']
-			return """
-
-        elif now = today:
-            dream = self.employment['Project Lead-QC']
-            return """
-
-        elif now > today:
-            goal = self.expectation['Smile']
-            return """
-        else:
-            return """
-            ### Hi there 👋
-            """
-        
-me = ReadMe(2020)
+function test() {
+console.log("look ma’, no spaces");
+}
 ```
 <p align="center">
 <!--a href="https://twitter.com/manishkumar861" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="manish.kumar86" height="20" width="20" /></a-->

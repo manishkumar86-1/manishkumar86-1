@@ -16,6 +16,27 @@
 <!--a href="https://www.youtube.com/c/manish.kumar86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="manish.kumar86" height="20" width="20" /></a-->
 </p>
 <h3>A passionate Testing Expert from India!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkumar86-1" alt="manishkumar86-1" /> </p>
+
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="50" height="60"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="50" height="60"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="60"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="60"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="50" height="60"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="60"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="50" height="60"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+</p>
+
+- 💬 Ask me about **Middleware Testing, UAT, OSPL-DDS, RTI-DDS, Linux Pruning, Networking**
+
+- :e-mail: [**drop an e-mail**](mailto:manish.kumar86@gmail.com) 
+- :e-mail: [**manish.kumar86@gmail.com**]
+
+- ⚡ Fun fact **Gazar ka halwa is best thing happened to this world !!!**
+
 
 
 ```python
@@ -58,27 +79,6 @@ me = ReadMe(2020)
 ```
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkumar86-1" alt="manishkumar86-1" /> </p>
-
-<p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="50" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="50" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="50" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="50" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-</p>
-
-- 💬 Ask me about **Middleware Testing, UAT, OSPL-DDS, RTI-DDS, Linux Pruning, Networking**
-
-- :e-mail: [**drop an e-mail**](mailto:manish.kumar86@gmail.com) 
-- :e-mail: [**manish.kumar86@gmail.com**]
-
-- ⚡ Fun fact **Gazar ka halwa is best thing happened to this world !!!**
 
 <h4>
 Test Suite Profile:

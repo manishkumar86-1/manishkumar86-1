@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Middleware Testing, UAT, OSPL-DDS, RTI-DDS, Linux Pruning, Networking**
 
-- 📫 :incoming_envelope: Email **manish.kumar86@gmail.com**
+- :e-mail: Email **manish.kumar86@gmail.com**
 
 - ⚡ Fun fact **Gazar ka halwa is best thing happened to this world !!!**
 

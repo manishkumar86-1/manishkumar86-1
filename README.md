@@ -34,7 +34,7 @@
 
 - :e-mail: **manish.kumar86@gmail.com**
 
-- ⚡ Fun fact **Gazar ka halwa is best thing happened to this world !!!**
+- ⚡ Fun fact **Gazar ka halwa is the best thing happened to this world !!!**
 
 
 

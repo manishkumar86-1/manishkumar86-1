@@ -37,8 +37,26 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/manish.kumar86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="manish.kumar86" height="20" width="20" /></a-->
 <!--a href="https://www.youtube.com/c/manish.kumar86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="manish.kumar86" height="20" width="20" /></a-->
 </p>
-<h3>
-Test doing(self, now=2020):
+
+<h4>
+Test Suite Profile:
+    
+    Class __Loading...__(self, username="manish", year=2020):
+        self.name = 'Manish Kumar'
+        self.details = {
+            'Language': ['C++', 'Java-Core', 'Shell', 'OSPL-Test'],
+            'Database': ['MySql', 'RDS'],
+			'Virtualization': ['VMWare', 'Virtual Box', 'Docker', 'AWS'],
+            'architecture': ['Bachelor of Engineering', 'Electronics & Communication'],
+            'hobby': ['Sketching', 'Chess', 'Cricket', 'Travel']
+        }
+        self.employment = {
+            'Project Lead-QC': ['R Systems International Ltd', 'Noida'],
+            'Team Lead-Testing': ['Indian Navy', 'New Delhi']
+            'Developer': ['Bharat Electronics Ltd','Ministry of Defense', 'Ghaziabad'],
+        }
+	
+    Test doing(self, now=2020):
         today = self.year
 
         if now < today:
@@ -55,5 +73,6 @@ Test doing(self, now=2020):
         else:
             return """
             ### Hi there 👋
-            """
-</h3>
+            """    
+	    me = ReadMe(2020)
+</h4>

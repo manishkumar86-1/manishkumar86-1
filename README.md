@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--[Manish](https://github.com/manishkumar86-1)-->
+[![Manish](https://res.cloudinary.com/manishkumar86/image/upload/v1595763215/20180513084249_zffq9o.gif)](https://github.com/manishkumar86-1)
+
 ```python
 Suite Profile:
     Class __Loading...__(self, username="manish", year=2020):
@@ -52,9 +56,6 @@ Suite Profile:
         
 me = ReadMe(2020)
 ```
-
-<!--[Manish](https://github.com/manishkumar86-1)-->
-[![Manish](https://res.cloudinary.com/manishkumar86/image/upload/v1595763215/20180513084249_zffq9o.gif)](https://github.com/manishkumar86-1)
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">A passionate Testing Expert from India!</h3>
 <p align="center">

@@ -78,44 +78,4 @@ Suite Profile:
 me = ReadMe(2020)
 ```
 
-
-
-<h4>
-Test Suite Profile:
-    
-    Class __Loading...__(self, username="manish", year=2020):
-        self.name = 'Manish Kumar'
-        self.details = {
-            'Language': ['C++', 'Java-Core', 'Shell', 'OSPL-Test'],
-            'Database': ['MySql', 'RDS'],
-			'Virtualization': ['VMWare', 'Virtual Box', 'Docker', 'AWS'],
-            'architecture': ['Bachelor of Engineering', 'Electronics & Communication'],
-            'hobby': ['Sketching', 'Chess', 'Cricket', 'Travel']
-        }
-        self.employment = {
-            'Project Lead-QC': ['R Systems International Ltd', 'Noida'],
-            'Team Lead-Testing': ['Indian Navy', 'New Delhi']
-            'Developer': ['Bharat Electronics Ltd','Ministry of Defense', 'Ghaziabad'],
-        }
-	
-    Test doing(self, now=2020):
-        today = self.year
-
-        if now < today:
-            experience = self.employment['Team Lead-Testing']
-			return """
-
-        elif now = today:
-            dream = self.employment['Project Lead-QC']
-            return """
-
-        elif now > today:
-            goal = self.expectation['Smile']
-            return """
-        else:
-            return """
-            ### Hi there 👋
-            """    
-	    me = ReadMe(2020)
-</h4>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manishkumar86-1&show_icons=true" alt="manishkumar86-1" /> </p>

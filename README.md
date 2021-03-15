@@ -71,7 +71,6 @@ Suite Profile:
             return """
             ### Hi there 👋
             """
-me = ReadMe(2020)
 ```
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manishkumar86-1&show_icons=true" alt="manishkumar86-1" /> </p>

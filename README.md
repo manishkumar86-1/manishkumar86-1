@@ -35,7 +35,6 @@
 - :e-mail: **manish.kumar86@gmail.com**
 
 - ⚡ Fun fact **Gazar ka halwa is the best thing happened to this world !!!**
-
 ```python
 Suite Profile:
     Class __Loading...__(self, username="manish", year=2020):

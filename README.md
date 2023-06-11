@@ -30,7 +30,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
 </p>
 
-- 💬 Ask me about **Middleware Testing, UAT, OSPL-DDS, RTI-DDS, Linux Pruning, Networking**
+- 💬 Ask me about **Agile, Scrum, Cloud Tech, Middleware Testing, UAT, OSPL-DDS, RTI-DDS, Linux Pruning, Networking**
 
 - :e-mail: **manish.kumar86@gmail.com**
 

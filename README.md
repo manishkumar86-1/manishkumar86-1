@@ -50,26 +50,5 @@ Suite Profile:
             'Project Lead-QC': ['R Systems International Ltd', 'Noida'],
             'Team Lead-Testing': ['Indian Navy', 'New Delhi']
             'Developer': ['Bharat Electronics Ltd','Ministry of Defense', 'Ghaziabad'],
-        }
-
-    Test doing(self, now=2020):
-        today = self.year
-
-        if now < today:
-            experience = self.employment['Team Lead-Testing']
-			return """
-
-        elif now = today:
-            dream = self.employment['Project Lead-QC']
-            return """
-
-        elif now > today:
-            goal = self.expectation['Smile']
-            return """
-        else:
-            return """
-            ### Hi there 👋
-            """
-```
-
+        }```
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manishkumar86-1&show_icons=true" alt="manishkumar86-1" /> </p>

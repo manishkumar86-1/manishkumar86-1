@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/manishkumar86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manish.kumar86" height="20" width="20" /></a>
 <!--a href="https://www.youtube.com/c/manish.kumar86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="manish.kumar86" height="20" width="20" /></a-->
 </p>
-<h3>A passionate Testing Expert from India!</h3>
+<h3>A passionate Scrum/Kanban framework expert from India!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkumar86-1" alt="manishkumar86-1" /> </p>
 
 <p align="left">
